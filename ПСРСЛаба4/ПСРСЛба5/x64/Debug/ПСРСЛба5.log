@@ -1,0 +1,3 @@
+﻿  PSRSLab4.cpp
+c:\users\matt\source\repos\псрслба5\псрслба5\psrslab4.cpp(7): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ПСРСЛба5.vcxproj -> C:\Users\Matt\source\repos\ПСРСЛба5\x64\Debug\ПСРСЛаба4.exe
